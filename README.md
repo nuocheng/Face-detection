@@ -1,17 +1,4 @@
-# fatigue_detecting
-
-#### 介绍
-基于图像驾驶员疲劳检测技术研究
-
->更多学习记录参考: :tw-1f251: 
->
->**cungudafa博客：Dlib模型之驾驶员疲劳检测系列（眨眼、打哈欠、瞌睡点头、可视化界面）** 
->
->https://blog.csdn.net/cungudafa/article/details/103477960
->
->https://blog.csdn.net/cungudafa/article/details/103496881
->
->https://blog.csdn.net/cungudafa/article/details/103499230
+# 人脸识别技术
 
 #### 软件架构
 
@@ -75,9 +62,3 @@
 注意：
 
 本地视频不宜过大，会影响检测效果！
-
-
-
-#### 参与贡献
-
-cungudafa
